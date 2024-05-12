@@ -39,8 +39,16 @@ Tracklist and credits: Letter Gothic MT
 "Radiohead": Mrs. Eaves
 
 ## In Rainbows
+### Original version (iTunes Booklet, Japanese CD)
 Radiohead: Roadgeek 2005 6W Regular \
 In Rainbows: Roadgeek 2005 6W Regular 
+
+
+### Updated version (CD, Vinyl)
+Radiohead: Roadgeek 2005 Transport Medium \
+In Rainbows: Roadgeek 2005 Transport Medium
+
+<!--- Roadgeek 2005 is based on the fonts used on highway signs. --->
 
 |  Original version  |  Updated version  |
 ----------------------|-------------------
