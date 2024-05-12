@@ -36,7 +36,8 @@ Tracklist and credits: Grotesque MT Bold Extended
 Tracklist and credits: Letter Gothic MT
 
 ## Hail to the Thief
-"Radiohead": Mrs. Eaves
+"Radiohead": Mrs Eaves
+"Hail to the Thief": Mrs Eaves Bold
 
 ## In Rainbows
 ### Original version (iTunes Booklet, Japanese CD)
@@ -48,7 +49,7 @@ In Rainbows: Roadgeek 2005 6W Regular
 Radiohead: Roadgeek 2005 Transport Medium \
 In Rainbows: Roadgeek 2005 Transport Medium
 
-<!--- Roadgeek 2005 is based on the fonts used on highway signs. --->
+<!--- Roadgeek 2005 is based on the fonts used on highway signs.--->
 
 |  Original version  |  Updated version  |
 ----------------------|-------------------
