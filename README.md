@@ -42,8 +42,14 @@ Tracklist and credits: Letter Gothic MT
 Radiohead: Roadgeek 2005 6W Regular \
 In Rainbows: Roadgeek 2005 6W Regular 
 
-![svg](https://github.com/paranoidandroid-96/Radiohead-Fonts/blob/102926a1fc807695f659ac0b3502f958dd957855/Album_Covers/In_Rainbows_Raster.svg)
+|  Original version  |  Updated version  |
+----------------------|-------------------
+![svg](https://github.com/paranoidandroid-96/Radiohead-Fonts/blob/102926a1fc807695f659ac0b3502f958dd957855/Album_Covers/In_Rainbows_Raster.svg) | ![svg](https://github.com/paranoidandroid-96/Radiohead-Fonts/blob/c3b0f6f0a6daa215accde4a41dc9bf1b4d989b99/Album_Covers/In_Rainbows_v2_Raster.svg)
 
+<!--- 
+| <img src="https://github.com/paranoidandroid-96/Radiohead-Fonts/blob/102926a1fc807695f659ac0b3502f958dd957855/Album_Covers/In_Rainbows_Raster.svg" width=40% height=40%> :|: <img src="https://github.com/paranoidandroid-96/Radiohead-Fonts/blob/c3b0f6f0a6daa215accde4a41dc9bf1b4d989b99/Album_Covers/In_Rainbows_v2_Raster.svg" width=40% height=40%> |
+
+--->
 
 Lyrics: Roadgeek 2005 Engschrift
 Credits: Roadgeek 2005 Mittelschrift\
