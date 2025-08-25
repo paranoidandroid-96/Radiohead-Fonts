@@ -2,7 +2,7 @@
 
 This repository contains fonts used by the english band Radiohead in their albums and solo work of their members.
 
-
+# Radiohead
 
 ## Pablo Honey
 "Radiohead": Template Gothic Bold (Distorted) \
@@ -85,8 +85,65 @@ Illustrations and Credits: National Oldstyle HPLHS
 TKOL RMX: Times Gothic HPLHS \
 Tracklist and Credits: Times Gothic HPLHS
 
-
 ## A Moon Shaped Pool
 Radiohead: Deansgate Bold \
 A Moon Shaped Pool: Deansgate Regular
 
+# Thom Yorke
+
+## The Eraser
+Gill Sans Std
+
+## Atoms for Peace Amok
+Futura
+
+## Tomorrow's Modern Boxes
+Radikal Black Italic \
+Green color (HEX):#44d62c
+
+# Jonny Greenwood
+
+## Bodysong
+AFBattersea
+
+## Jonny Greenwood is the Controller 
+Microgramma D Bold Extended
+
+## There Will Be Blood 
+There Will Be Blood: Kraut-type-a-fuck \
+"Jonny Greenwood" Goudy Modern MT Std, with some positive tracking
+
+## Norwegian Wood 
+Neue Helvetica Std 33 Thin Extended \
+FF Trixie OT Heavy
+
+## Penderecki - Greenwood
+Neue Helvetica Std 33 Thin Extended
+
+## The Master 
+Goudy Bookletter 1911 Regular, with some negative tracking (Booklet) / Baskerville Regular (Movie)
+
+## Inherent Vice
+Drescher Grotesk BT Demi \ Rolling Pen Complete
+
+## Junun
+Adobe Garamond Pro Bold (Booklet) / Yonder(Movie) \
+Hindi lyrics: Adobe Devanagari Bold (Song title) / Adobe Devanagari Regular (Lyrics) \
+Hebrew lyrics: Myriad Hebrew Bold (Song title) / Myriad Hebrew Italic (Lyrics) \
+English lyrics: Arial MT (Song title) / Adobe Garamond Pro Italic (Credits) / Adobe Garamond Pro Regular (Lyrics)
+
+## Water
+
+## Phanthom Thread
+Baskerville BT Roman
+
+# Philip Selway
+
+## Familial
+Nimbus Sans
+
+## Weatherhouse
+Nimbus Sans
+
+## Let Me Go
+Nimbus Sans
