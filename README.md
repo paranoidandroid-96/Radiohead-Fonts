@@ -5,45 +5,43 @@ This repository contains fonts used by the english band Radiohead in their album
 
 
 ## Pablo Honey
-"Radiohead": Template Gothic Bold (Distorted)
-"Pablo Honey": Handwriting
+"Radiohead": Template Gothic Bold (Distorted) \
+"Pablo Honey": Handwriting \
 Tracklist and credits: Template Gothic
 
 ## The Bends
-"Radiohead": Microgramma D Bold Extended 
-"The Bends": Microgramma D Bold Extended
+"Radiohead": Microgramma D Bold Extended \
+"The Bends": Microgramma D Bold Extended \
 Lyrics and credits: Microgramma D Medium Extended, Microgramma D Bold Extended
 
 ## OK Computer
-"Radiohead": Microgramma D Bold Extended
-"OK Computer": Franklin Gothic Medium
-Lyrics and credits: OCR B
-Tracklist: Neuzeit LT STD Book Heavy
+"Radiohead": Microgramma D Bold Extended \
+"OK Computer": Franklin Gothic Medium \
+Lyrics and credits: OCR B \
+Tracklist: Neuzeit LT STD Book Heavy \
 
-Cyan color Radiohead OKNOTOK Sketchbook (CMYK): C87M33Y0K0
-
-Cyan color Radiohead OKNOTOK Webpage (HEX): #009FDF
+Cyan color Radiohead OKNOTOK Sketchbook (CMYK): C87M33Y0K0 \
+Cyan color Radiohead OKNOTOK Webpage (HEX): #009FDF 
 
 
 ## Kid A
-"Radiohead": BD Plakatbau
-"KID A": BD Plakatbau
+"Radiohead": BD Plakatbau \
+"KID A": BD Plakatbau \
 Tracklist and credits: Grotesque MT Bold Extended
 
 ## Amnesiac
-"Radiohead": BD Plakatbau
-"Amnesiac": BD Plakatbau
+"Radiohead": BD Plakatbau \
+"Amnesiac": BD Plakatbau \
 Tracklist and credits: Letter Gothic MT
 
 ## Hail to the Thief
-"Radiohead": Mrs Eaves
+"Radiohead": Mrs Eaves \
 "Hail to the Thief": Mrs Eaves Bold
 
 ## In Rainbows
 ### Original version (iTunes Booklet, Japanese CD)
 Radiohead: Roadgeek 2005 6W Regular \
 In Rainbows: Roadgeek 2005 6W Regular 
-
 
 ### Updated version (CD, Vinyl)
 Radiohead: Roadgeek 2005 Transport Medium \
@@ -60,33 +58,35 @@ In Rainbows: Roadgeek 2005 Transport Medium
 
 --->
 
-Lyrics: Roadgeek 2005 Engschrift
-Credits: Roadgeek 2005 Mittelschrift\
+Lyrics: Roadgeek 2005 Engschrift \
+Credits: Roadgeek 2005 Mittelschrift
 
-Color palette (CMYK):
 
-C3M0Y71K0\
-C63M25Y0K0\
-C1M63Y100K0\
-C61M0Y100K0\
-C8M25Y90K0\
-C0M93Y100K0\
-C25M0Y5K0\
+
+|Color palette (CMYK):| HEX Color Equivalent ([colordesigner.io](https://colordesigner.io/convert/cmyktohex))|
+|-------------|--------------------------------------------------------------------|
+|C3M0Y71K0    | ![#f7ff4a](https://placehold.co/45x15/f7ff4a/f7ff4a.png) `#f7ff4a` |  
+|C63M25Y0K0   | ![#5ebfff](https://placehold.co/45x15/5ebfff/5ebfff.png) `#5ebfff` |  
+|C1M63Y100K0  | ![#fc5e00](https://placehold.co/45x15/fc5e00/fc5e00.png) `#fc5e00` |  
+|C61M0Y100K0  | ![#63ff00](https://placehold.co/45x15/63ff00/63ff00.png) `#63ff00` |  
+|C8M25Y90K0   | ![#ebbf19](https://placehold.co/45x15/ebbf19/ebbf19.png) `#ebbf19` |  
+|C0M93Y100K0  | ![#ff1200](https://placehold.co/45x15/ff1200/ff1200.png) `#ff1200` |  
+|C25M0Y5K0    | ![#bffff2](https://placehold.co/45x15/bffff2/bffff2.png) `#bffff2` |  
 
 ## The King of Limbs
-Radiohead: Letterpress Printing / Similar fonts : Permanent Headline / Sorren Bold / ITC Roswell
-The King of Limbs: Letterpress
-Tracklist: Times Gothic HPLHS
+Radiohead: Letterpress Printing / Similar fonts : Permanent Headline / Sorren Bold / ITC Roswell \
+The King of Limbs: Letterpress \
+Tracklist: Times Gothic HPLHS \
 Illustrations and Credits: National Oldstyle HPLHS 
 
 
 ## TKOL RMX 1234567
 
-TKOL RMX: Times Gothic HPLHS
+TKOL RMX: Times Gothic HPLHS \
 Tracklist and Credits: Times Gothic HPLHS
 
 
 ## A Moon Shaped Pool
-Radiohead: Deansgate Bold
+Radiohead: Deansgate Bold \
 A Moon Shaped Pool: Deansgate Regular
 
