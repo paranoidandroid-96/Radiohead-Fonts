@@ -94,7 +94,7 @@ A Moon Shaped Pool: Deansgate Regular
 ## The Eraser
 Gill Sans Std
 
-## Atoms for Peace Amok
+## Atoms for Peace - Amok
 Futura
 
 ## Tomorrow's Modern Boxes
