@@ -18,7 +18,7 @@ Lyrics and credits: Microgramma D Medium Extended, Microgramma D Bold Extended
 "Radiohead": Microgramma D Bold Extended \
 "OK Computer": Franklin Gothic Medium \
 Lyrics and credits: OCR B \
-Tracklist: Neuzeit LT STD Book Heavy \
+Tracklist: Neuzeit LT STD Book Heavy
 
 Cyan color Radiohead OKNOTOK Sketchbook (CMYK): C87M33Y0K0 \
 Cyan color Radiohead OKNOTOK Webpage (HEX): #009FDF 
